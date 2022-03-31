@@ -1,23 +1,23 @@
 # Python-Project-Employee-Mangement-System-Console-Based
-This Repository contain all code and files related to this python project on "Employee management system"
+_This Repository contain all code and files related to this python project on "Employee management system"_
 
-This Version Of Employee Management System Contain These Specific Features:
-->Work On Binary File System
-->Console Base Program
-->Add employee details 
-->Update employee details
-->Delete employee details
-->Print employee details
-->Recycle bin (Data recover)
-->Salary management system
---->Add transaction of employee
---->Print transaction of employee
---->Delete transaction of employee
---->Update transaction of employee
-->Login system (Multiple Account Creation)
---->Login to account 
---->Create new user account 
---->Change user account password
---->Forgot user account password
-->Speaking Guide Adioter
-->Now Data store in c drive instead of root dirctory
+## This Version Of Employee Management System Contain These Specific Features:
+### 1.Work On Binary File System
+### 2.Console Base Program
+### 3.Add employee details 
+### 4.Update employee details
+### 5.Delete employee details
+### 6.Print employee details
+### 7.Recycle bin (Data recover)
+### 8.Salary management system
+#### ->Add transaction of employee
+#### ->Print transaction of employee
+#### ->Delete transaction of employee
+#### ->Update transaction of employee
+### 9.Login system (Multiple Account Creation)
+#### ->Login to account 
+#### ->Create new user account 
+#### ->Change user account password
+#### ->Forgot user account password
+### 10 .Speaking Guide Adioter
+### 11 .Now Data store in c drive instead of root dirctory
