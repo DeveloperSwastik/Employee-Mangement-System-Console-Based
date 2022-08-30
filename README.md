@@ -22,4 +22,4 @@ _**Employee Mangement System** is a console base software use to manage data of 
     - Change user account password
     - Forgot user account password
 - Speaking Guide Adioter
-- Now Data store in c drive instead of root dirctory
+- Data store in c drive
